@@ -1,5 +1,1 @@
 rebase commit 1
-
-rebase commit 2
-
-test revert now
